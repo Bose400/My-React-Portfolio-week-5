@@ -80,33 +80,33 @@ export const content = {
     subtitle: "MY TOP SKILLS",
     skills_content: [
       {
-        name: "PHP",
-        para: "Lorem ipsum text  dummy",
+        name: "FIGMA",
+        para: "Welcome to my Figma hub",
         logo: figma,
       },
       {
         name: "Node js",
-        para: "Lorem ipsum text  dummy",
+        para: "Welcome to my Node.js resource center",
         logo: nodejs,
       },
       {
         name: "Adobe Photoshop",
-        para: "Lorem ipsum text  dummy",
+        para: " We offer competitive pricing for my Photoshop services.",
         logo: ps,
       },
       {
         name: "React js",
-        para: "Lorem ipsum text  dummy",
+        para: "React.js, often simply referred to as React, is a widely-used JavaScript library.",
         logo: reactjs,
       },
       {
         name: "Sketch",
-        para: "Lorem ipsum text  dummy",
+        para: "sketches in Figma is a crucial step in the design process.",
         logo: sketch,
       },
       {
         name: "Python",
-        para: "Lorem ipsum text  dummy",
+        para: "Python Gemini supports a wide range of applications.",
         logo: python,
       },
     ],
@@ -117,18 +117,18 @@ export const content = {
     subtitle: "WHAT I OFFER",
     service_content: [
       {
-        title: "Web Development",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Full Stack developer",
+        para: "I am a highly skilled Full Stack Developer, developing, and maintaining web applications. My expertise spans both frontend and backend technologies, enabling me to build robust, user-friendly applications from the ground up. I am a versatile developer with extensive experience in both frontend and backend development.My frontend expertise includes HTML, CSS, JavaScript, and frameworks like React, which I have used to build responsive and interactive web applications. On the backend, I am proficient in Node.js and express, with significant experience in creating scalable and secure server-side applications, managing databases, and developing RESTful APIs.   ",
         logo: services_logo1,
       },
       {
         title: "UI / UX DESIGNING",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "I specialize in both UI and UX design. I am proficient in using tools like Sketch, Figma, and Adobe XD to create intuitive and visually appealing interfaces. My approach involves thorough user research, creating detailed wireframes and prototypes, and conducting user testing to refine designs. I have successfully collaborated with developers and stakeholders to deliver products that not only meet user needs but also achieve business objectives.",
         logo: services_logo2,
       },
       {
         title: "PhotoShop Editing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "We specialize in transforming ordinary images into extraordinary works of art through meticulous editing techniques and creative vision we believe in a collaborative approach to Photoshop editing. We start by understanding your vision and requirements, then meticulously work on each project, keeping you informed and involved every step of the way. Our goal is to exceed your expectations and deliver stunning results that make your images stand out.",
         logo: services_logo3,
       },
     ],
@@ -158,9 +158,9 @@ export const content = {
     testimonials_content: [
       {
         review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
+          "“Working with Abimbola Aiyedogbonon on React Js project was an absolute pleasure. Their expertise and attention to detail significantly improved our application's performance and usability. Highly recommended! ”",
         img: avatar1,
-        name: "ABIMBOLA Aiyedogbon",
+        name: "Adeoti Mayokun",
       },
       {
         review:
@@ -187,15 +187,15 @@ export const content = {
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+    para: "I'm Abimbola Aiyedogbon, versatile developer and designer with expertise in frontend development,backend development, and product design.I'm excited about the opportunity to contribute to projects that require a combination of technical skills  ",
     btnText: "Hire Me",
   },
   Contact: {
-    title: "Contect Me",
+    title: "Contact Me",
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "abimbolaa@gmail.com",
+        text: "aiyedogbonabimbola3@gmail.com",
         icon: GrMail,
         link: "mailto:abimbolaa@gmail.com",
       },
